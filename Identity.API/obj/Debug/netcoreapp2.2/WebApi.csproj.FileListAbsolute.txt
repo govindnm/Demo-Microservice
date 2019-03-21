@@ -1,0 +1,14 @@
+F:\Microservices\aspnet-core-registration-login-api-master\bin\Debug\netcoreapp2.2\WebApi.deps.json
+F:\Microservices\aspnet-core-registration-login-api-master\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+F:\Microservices\aspnet-core-registration-login-api-master\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+F:\Microservices\aspnet-core-registration-login-api-master\bin\Debug\netcoreapp2.2\WebApi.dll
+F:\Microservices\aspnet-core-registration-login-api-master\bin\Debug\netcoreapp2.2\WebApi.pdb
+F:\Microservices\aspnet-core-registration-login-api-master\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+F:\Microservices\aspnet-core-registration-login-api-master\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+F:\Microservices\aspnet-core-registration-login-api-master\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+F:\Microservices\aspnet-core-registration-login-api-master\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+F:\Microservices\aspnet-core-registration-login-api-master\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+F:\Microservices\aspnet-core-registration-login-api-master\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+F:\Microservices\aspnet-core-registration-login-api-master\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+F:\Microservices\aspnet-core-registration-login-api-master\obj\Debug\netcoreapp2.2\WebApi.dll
+F:\Microservices\aspnet-core-registration-login-api-master\obj\Debug\netcoreapp2.2\WebApi.pdb
